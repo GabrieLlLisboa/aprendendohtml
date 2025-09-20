@@ -52,3 +52,27 @@
 
     
 }
+
+#botaoir3 {
+
+     background-color: rgb(0, 0, 0);
+    color: white;
+    font-family: "Merriweather", serif;
+    font-size: 15px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+#mensagempagina3 {
+
+        color: black;
+    font-size: 100px;
+     text-align: center;
+         font-family: "Merriweather", serif;
+}

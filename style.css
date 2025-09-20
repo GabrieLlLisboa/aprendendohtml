@@ -1,0 +1,18 @@
+#Botao {
+
+    background-color: red;
+    color:white;
+    font-family: "Merriweather", serif;
+}
+
+#botaoir {
+
+    background-color: green;
+    color: white;
+    font-family: "Merriweather", serif;
+}
+
+#Cabeçalho {
+    color: black;
+    font-size: 180px;
+}

@@ -3,6 +3,10 @@
     background-color: red;
     color:white;
     font-family: "Merriweather", serif;
+    font-size: 40px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
 }
 
 #botaoir {
@@ -10,9 +14,41 @@
     background-color: green;
     color: white;
     font-family: "Merriweather", serif;
+    font-size: 40px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    float: right
 }
 
 #Cabeçalho {
     color: black;
-    font-size: 180px;
+    font-size: 100px;
+     text-align: center;
+         font-family: "Merriweather", serif;
+}
+
+#botaoir2 {
+
+    background-color: green;
+    color: white;
+    font-family: "Merriweather", serif;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#mensagempagina2 {
+
+    color: black;
+    font-size: 100px;
+     text-align: center;
+         font-family: "Merriweather", serif;
+
+    
 }
